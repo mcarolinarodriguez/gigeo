@@ -6,7 +6,8 @@
 //@import 'abstracts/placeholders';
 
 //vendors
-@import 'vendors/bootstrap_v5.1/bootstrap';
+
+@import 'vendors/bootstrap-4.1.3/bootstrap';
 //@import 'vendors/jquery-ui';
 
 //base
@@ -18,7 +19,7 @@
 //layout
 @import 'layout/nav';
 //@import 'layout/grid';
-@import 'layout/header';
+//@import 'layout/header';
 @import 'layout/main';
 //@import 'layout/footer';
 //@import 'layout/sidebar';
@@ -28,7 +29,7 @@
 //components
 @import 'components/buttons';
 @import 'components/nav';
-//@import 'components/cover';
+@import 'components/tumbnail';
 //  @import 'components/dropdown';
 //@import 'components/inputs';
 

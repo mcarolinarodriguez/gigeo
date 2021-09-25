@@ -1,1 +1,30 @@
 //Base Styles
+*{
+    margin: 0;
+  }
+  
+  
+  img{
+    max-width: 100%;
+  }
+  
+
+  
+  @media only screen and(max-width: 768px){
+    .navbar{
+      i{
+        display: none;
+      }
+    }
+    .main__buttons {
+        display: none;
+    }
+    .main__backgroundImage {
+      display: none;
+  }
+  .main__profile {
+    margin: auto;
+  }
+
+  }
+  

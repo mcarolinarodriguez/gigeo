@@ -1,0 +1,28 @@
+.navbar{
+    padding: 2em 0;
+    background-color: $white;
+  }
+  .navbar__title{
+    font-size: $x-large;
+  }
+  .navbar__superior{
+    font-size: $x-small;
+  }
+  .navbar__icono{
+    justify-content: flex-end;
+    display: flex;
+   
+    
+  
+    i{
+      align-self: center;
+      font-size: 1.2em;
+      padding-right: 2em;
+      
+    }
+  }
+  .fas, .far{
+      padding-left: 10%;
+  }
+  
+  

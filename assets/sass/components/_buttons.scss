@@ -1,0 +1,27 @@
+.button{
+    padding: 10% 15%;
+   font-family: $roboto;
+    font-size: $medium;
+    font-weight: $regular;
+  }
+  
+  .button_primary{
+    border: none;
+    color: $white;
+    background-color: $blue-sky;
+  
+    &:hover {
+      background-color: $pale-lavander;
+    }
+  }
+  
+  .button_secondary{
+    border: none;
+    color: $white;
+    background-color: $flame;
+  
+    &:hover {
+      background-color: $pastel-pink;
+    }
+  }
+  
